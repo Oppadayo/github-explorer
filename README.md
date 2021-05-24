@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="github-explorer" title="#github-exporer" src="./assets/hero.png" />
+    <img alt="github-explorer" title="#github-explorer" src="./assets/hero.png" />
 </h1>
 
 <h4 align="center"> 
